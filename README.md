@@ -2,6 +2,8 @@
 ## This repository contains  part of the code for our paper
 基于字节编码和预训练任务的加密流量分类模型
 
+Note: this code is based on [UER-py](https://github.com/dbiir/UER-py) and [ET-BERT](https://github.com/linwhitehat/ET-BERT). Many thanks to the authors.
+
 ## Datasets
 Sorry, due to protocol restrictions, the datasets and weights are not publicly available now.
 
