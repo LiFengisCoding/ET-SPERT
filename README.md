@@ -10,7 +10,7 @@ Sorry, due to protocol restrictions, the datasets and weights are not publicly a
 ## data_process
 You can train it with the following command:
 ```
-python data_process/data_preprocess.py
+python data_process/main.py
 ```
 
 ## Train
